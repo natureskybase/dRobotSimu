@@ -6,7 +6,7 @@ d = 0.30;    % 左右两轮的距离(m)
 h = 0.15;   % height of the body (m)
 w = 0.2;   % width of the body (m)
 
-l = 0.065;   % length to the 质心 (m)
+l = 0.065;   % 底盘距离质心的距离 (m)
 g = 9.81;  % gravitational acceleration (m/s²)
 
 jp = mb*l^2/3;
